@@ -6,7 +6,6 @@ body
   font-size: .84em;
   color: #222;
   line-height: 1.4em;
-/*	background-image: url("img/bg.png");*/
   width: 900px;
   margin: 10px auto 0px auto;}
 
@@ -59,7 +58,7 @@ body
   display:block;
   width:300px;
   height:119px;
-  background:url(img/logo.png) no-repeat;
+  background:url(../img/logo.png) no-repeat;
   background-size: contain;
   text-indent: 100%;
   text-align: center;

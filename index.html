@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styl.css">
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="js/accordion.js"></script>
+	<script type="text/javascript" src="js/login.js"></script>
 </head>
 <body>
 	<!-- wideo tło-->
@@ -24,7 +25,9 @@
 			<div class="accordion-section">
 				<a class="accordion-section-title" href="#accordion-1">HOME</a>
 				<div id="accordion-1" class="accordion-section-content">
-					<p>TEST</p>
+					<p>Strona powstała na potrzeby projektu inżynierskiego na wydziale Matematyki
+					i Informatyki Uniwersystetu Adama Mickiewicza. Projekt prowadzą Dymitr Sołtysiak,
+				Ruslan Pidhyain, Grzegorz Gawroński pod nadzorem </p>
 				</div><!--end .accordion-section-content-->
 			</div><!--end .accordion-section-->
 			<!-- wyszukiwarka -->
@@ -45,12 +48,12 @@
 				<a class="accordion-section-title" href="#accordion-4">Kontakt</a>
 				<div id="accordion-4" class="accordion-section-content">
 							<p>Nie widzisz swoje kanału? Napisz do nas</p>
-			<form action="#" method="post">
+			<form action="mail.php" method="POST">
 				<div class="form_settings">
-					<p><span>Imię</span><input class="contact" type="text" name="your_name" value="" /></p>
-					<p><span>Adres email</span><input class="contact" type="text" name="your_email" value="" /></p>
-					<p><span>Wiadomość</span><textarea class="contact textarea" rows="8" cols="50" name="your_enquiry"></textarea></p>
-					<p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="submit" /></p>
+					<p><span>Imię</span><input class="contact" type="text" name="name" value="" /></p>
+					<p><span>Adres email</span><input class="contact" type="text" name="email" value="" /></p>
+					<p><span>Wiadomość</span><textarea class="contact textarea" rows="8" cols="50" name="message"></textarea></p>
+					<p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="S" name="contact_submitted" value="Wyślij" /></p>
 				</div>
 			</form>
 		</div>
