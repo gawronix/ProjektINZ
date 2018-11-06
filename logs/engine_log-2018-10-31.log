@@ -1,0 +1,150 @@
+2018-10-31 19:33:25 - Crawler state has been saved.
+2018-10-31 19:33:25 - Crawler shutting down.
+2018-10-31 19:33:34 - Crawler state has been saved.
+2018-10-31 19:33:34 - Crawler shutting down.
+2018-10-31 19:35:45 - Crawler has been started.
+2018-10-31 19:35:48 - Queue: []
+2018-10-31 19:35:49 - Parsing channel: Katy Perry
+2018-10-31 19:35:55 - Channel visited: Ariana Grande` - UC9CoOnJkIBMdeijd9qYoT_g - Category: Music
+2018-10-31 19:35:58 - Channel visited: Lady Gaga - UCNL1ZadSjHpjm4q9j2sVtOA - Category: Music
+2018-10-31 19:36:02 - Channel visited: Justin Bieber - UCIwFjwMjI0y7PDBVEO9-bkQ - Category: Music
+2018-10-31 19:36:05 - Channel visited: Nicki Minaj - UC3jOd7GUMhpgJRBhiLzuLsg - Category: Music
+2018-10-31 19:36:08 - Channel visited: Meghan Trainor - UCkXgEcpoTE4tHsebYBouWpA - Category: Music
+2018-10-31 19:36:12 - Channel visited: Maroon 5 - UCBVjMGOIkavEAhyqpxJ73Dw - Category: Music
+2018-10-31 19:36:12 - Queue: [Lady Gaga, Justin Bieber, Nicki Minaj, Meghan Trainor, Maroon 5]
+2018-10-31 19:36:13 - Parsing channel: Ariana Grande`
+2018-10-31 19:36:15 - Crawler state has been saved.
+2018-10-31 19:36:15 - Crawler shutting down.
+2018-10-31 19:46:33 - Crawler has been started.
+2018-10-31 19:46:36 - Queue: []
+2018-10-31 19:46:37 - Parsing channel: Katy Perry
+2018-10-31 19:46:42 - Channel visited: Ariana Grande` - UC9CoOnJkIBMdeijd9qYoT_g - Category: Music
+2018-10-31 19:46:45 - Channel visited: Lady Gaga - UCNL1ZadSjHpjm4q9j2sVtOA - Category: Music
+2018-10-31 19:46:48 - Channel visited: Justin Bieber - UCIwFjwMjI0y7PDBVEO9-bkQ - Category: Music
+2018-10-31 19:46:51 - Channel visited: Nicki Minaj - UC3jOd7GUMhpgJRBhiLzuLsg - Category: Music
+2018-10-31 19:46:54 - Channel visited: Meghan Trainor - UCkXgEcpoTE4tHsebYBouWpA - Category: Music
+2018-10-31 19:46:58 - Channel visited: Maroon 5 - UCBVjMGOIkavEAhyqpxJ73Dw - Category: Music
+2018-10-31 19:46:58 - Queue: [Lady Gaga, Justin Bieber, Nicki Minaj, Meghan Trainor, Maroon 5]
+2018-10-31 19:46:59 - Parsing channel: Ariana Grande`
+2018-10-31 19:47:06 - Channel visited: Katy Perry - UCYvmuw-JtVrTZQ-7Y4kd63Q - Category: Music
+2018-10-31 19:47:09 - Channel visited: Little Mix - UCIvqWqjC4aLvp7zI8hzARrA - Category: Music
+2018-10-31 19:47:13 - Channel visited: Cardi B - UCxMAbVFmxKUVGAll0WVGpFw - Category: Music
+2018-10-31 19:47:26 - Channel visited: shane - UCV9_KinVpV-snHe3C3n1hvA - Category: Comedy
+2018-10-31 19:47:26 - Queue: [Justin Bieber, Nicki Minaj, Meghan Trainor, Maroon 5, Katy Perry, Little Mix, Cardi B, shane]
+2018-10-31 19:47:27 - Parsing channel: Lady Gaga
+2018-10-31 19:47:28 - Crawler state has been saved.
+2018-10-31 19:47:28 - Crawler shutting down.
+2018-10-31 19:47:42 - Loading previous saved crawler state.
+2018-10-31 19:47:42 - Queue: [Nicki Minaj, Meghan Trainor, Maroon 5, Katy Perry, Little Mix, Cardi B, shane]
+2018-10-31 19:47:44 - Parsing channel: Justin Bieber
+2018-10-31 19:47:50 - Channel visited: One Direction - UCb2HGwORFBo94DmRx4oLzow - Category: Music
+2018-10-31 19:47:53 - Channel visited: DJ Khaled - UC0Kgvj5t_c9EMWpEDWJuR1Q - Category: Music
+2018-10-31 19:47:56 - Channel visited: Marshmello - UCEdvpU2pFRCVqU6yIPyTpMQ - Category: Music
+2018-10-31 19:48:01 - Channel visited: Ed Sheeran - UC0C-w0YjGpqDXGB8IHb662A - Category: Music
+2018-10-31 19:48:03 - Queue: [Meghan Trainor, Maroon 5, Katy Perry, Little Mix, Cardi B, shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran]
+2018-10-31 19:48:04 - Parsing channel: Nicki Minaj
+2018-10-31 19:48:09 - Crawler state has been saved.
+2018-10-31 19:48:09 - Crawler shutting down.
+2018-10-31 19:48:11 - Loading previous saved crawler state.
+2018-10-31 19:48:11 - Queue: [Maroon 5, Katy Perry, Little Mix, Cardi B, shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran]
+2018-10-31 19:48:13 - Parsing channel: Meghan Trainor
+2018-10-31 19:48:24 - Channel visited: Charlie Puth - UCwppdrjsBPAZg5_cUwQjfMQ - Category: Music
+2018-10-31 19:48:28 - Channel visited: Bebe Rexha - UC5-gWZXAQqSGVfPHkA7NRiQ - Category: Music
+2018-10-31 19:48:28 - Queue: [Katy Perry, Little Mix, Cardi B, shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha]
+2018-10-31 19:48:29 - Parsing channel: Maroon 5
+2018-10-31 19:48:43 - Queue: [Little Mix, Cardi B, shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha]
+2018-10-31 19:48:44 - Parsing channel: Katy Perry
+2018-10-31 19:48:57 - Queue: [Cardi B, shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha]
+2018-10-31 19:48:58 - Parsing channel: Little Mix
+2018-10-31 19:49:11 - Queue: [shane, One Direction, DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha]
+2018-10-31 19:49:12 - Parsing channel: Cardi B
+2018-10-31 19:49:17 - Channel visited: Marzia - UCe9oofjVfJzapRyVlt57x8Q - Category: People & Blogs
+2018-10-31 19:49:30 - Channel visited: SNARLED - UCVTKO1D_G19UlK03ezaADag - Category: Entertainment
+2018-10-31 19:49:43 - Channel visited: WORLDSTARHIPHOP - UC-yXuc1__OzjwpsJPlxYUCQ - Category: Music
+2018-10-31 19:49:48 - Channel visited: DJ Snake - UC_x8HoD18XJkILQBreVENUQ - Category: Music
+2018-10-31 19:49:48 - Queue: [One Direction, DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake]
+2018-10-31 19:49:49 - Parsing channel: shane
+2018-10-31 19:50:04 - Channel visited: David Dobrik - UCmh5gdwCx6lN7gEC20leNVA - Category: People & Blogs
+2018-10-31 19:50:15 - Channel visited: DramaAlert - UC11PvrGPzo6Y7Zc6-e9cAKg - Category: Trailers
+2018-10-31 19:50:20 - Channel visited: Alissa Violet - UCK1cdF6-oYMrrfPkGfXwTmQ - Category: People & Blogs
+2018-10-31 19:50:20 - Queue: [DJ Khaled, Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet]
+2018-10-31 19:50:21 - Parsing channel: One Direction
+2018-10-31 19:50:26 - Channel visited: zayn - UC3PdiRW5dUA4V70ueeR1eHA - Category: Music
+2018-10-31 19:50:35 - Queue: [Marshmello, Ed Sheeran, Charlie Puth, Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn]
+2018-10-31 19:50:36 - Parsing channel: DJ Khaled
+2018-10-31 19:50:51 - Channel visited: Lyrical Lemonade - UCtylTUUVIGY_i5afsQYeBZA - Category: Entertainment
+2018-10-31 19:51:06 - Queue: [Ed Sheeran, Charlie Puth, Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade]
+2018-10-31 19:51:07 - Parsing channel: Marshmello
+2018-10-31 19:51:12 - Channel visited: Alan Walker - UCJrOtniJ0-NWz37R30urifQ - Category: Music
+2018-10-31 19:51:15 - Channel visited: Anne-Marie - UCBL7ZxVX4GvW4CFiES_-0YA - Category: Music
+2018-10-31 19:51:18 - Channel visited: Martin Garrix - UC5H_KXkPbEsGs0tFt8R35mA - Category: Music
+2018-10-31 19:51:29 - Channel visited: NoCopyrightSounds - UC_aEa8K-EOJ3D6gOs7HcyNg - Category: Music
+2018-10-31 19:51:40 - Channel visited: Trap Nation - UCa10nxShhzNrCE1o2ZOPztg - Category: Music
+2018-10-31 19:51:41 - Queue: [Charlie Puth, Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation]
+2018-10-31 19:51:41 - Parsing channel: Ed Sheeran
+2018-10-31 19:51:49 - Crawler state has been saved.
+2018-10-31 19:51:49 - Crawler shutting down.
+2018-10-31 19:51:57 - Loading previous saved crawler state.
+2018-10-31 19:51:57 - Queue: [Bebe Rexha, Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation]
+2018-10-31 19:51:58 - Parsing channel: Charlie Puth
+2018-10-31 19:52:11 - Queue: [Marzia, SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation]
+2018-10-31 19:52:12 - Parsing channel: Bebe Rexha
+2018-10-31 19:52:25 - Queue: [SNARLED, WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation]
+2018-10-31 19:52:26 - Parsing channel: Marzia
+2018-10-31 19:52:50 - Channel visited: Joana Ceddia - UCkin59aR57-RgqvN04jHSIg - Category: Entertainment
+2018-10-31 19:53:01 - Channel visited: The ACE Family - UCWwWOFsW68TqXE-HZLC3WIA - Category: People & Blogs
+2018-10-31 19:53:04 - Queue: [WORLDSTARHIPHOP, DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family]
+2018-10-31 19:53:05 - Parsing channel: SNARLED
+2018-10-31 19:53:14 - Channel visited: Llama Arts - UCw-WWK1U5Nlds-ydZNCrkcg - Category: Film & Animation
+2018-10-31 19:53:26 - Channel visited: Mr. Nightmare - UCnM02drQP-dF7WMgtJHR4Xw - Category: Entertainment
+2018-10-31 19:53:38 - Channel visited: storybooth - UCWENB1OaGA9402PKzEVl0ow - Category: Film & Animation
+2018-10-31 19:53:59 - Channel visited: SSSniperWolf - UCpB959t8iPrxQWj7G6n0ctQ - Category: Entertainment
+2018-10-31 19:53:59 - Queue: [DJ Snake, David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf]
+2018-10-31 19:54:00 - Parsing channel: WORLDSTARHIPHOP
+2018-10-31 19:54:16 - Channel visited: Drake - UCByOQJjav0CUDwxCk-jVNRQ - Category: Music
+2018-10-31 19:54:18 - Channel visited: EminemMusic - UCfM3zsQsOnfWNUppiycmBuw - Category: Music
+2018-10-31 19:54:30 - Channel visited: Genius - UCyFZMEnm1il5Wv3a6tPscbA - Category: Music
+2018-10-31 19:54:33 - Channel visited: Kodak Black - UChEYVadfkMCfrKUi6qr3I1Q - Category: Music
+2018-10-31 19:54:45 - Channel visited: No Jumper - UCNNTZgxNQuBrhbO0VrG8woA - Category: Entertainment
+2018-10-31 19:54:47 - Channel added to database: DJ Snake
+2018-10-31 19:54:47 - Queue: [David Dobrik, DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper]
+2018-10-31 19:54:47 - Parsing channel: DJ Snake
+2018-10-31 19:55:05 - Channel visited: Spinnin' Records - UCpDJl2EmP7Oh90Vylx0dZtA - Category: Music
+2018-10-31 19:55:09 - Queue: [DramaAlert, Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records]
+2018-10-31 19:55:09 - Parsing channel: David Dobrik
+2018-10-31 19:55:35 - Channel visited: Zane Hijazi - UCiIFLzjBUX5WpkVqVDVWMTQ - Category: People & Blogs
+2018-10-31 19:55:47 - Channel visited: Jason Nash - UCCI_8nSz_TYWWaXMV475c9Q - Category: Comedy
+2018-10-31 19:55:59 - Channel visited: emma chamberlain - UC78cxCAcp7JfQPgKxYdyGrg - Category: Entertainment
+2018-10-31 19:56:10 - Queue: [Alissa Violet, zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain]
+2018-10-31 19:56:11 - Parsing channel: DramaAlert
+2018-10-31 19:56:35 - Channel visited: PewDiePie - UC-lHJZR3Gqxm24_Vd_AJ5Yw - Category: Entertainment
+2018-10-31 19:56:46 - Channel visited: Deji - UCrqsNpKuDQZreGaxBL_a5Jg - Category: People & Blogs
+2018-10-31 19:56:59 - Channel visited: Philip DeFranco - UClFSU9_bUb4Rc6OYfTt5SPw - Category: Trailers
+2018-10-31 19:56:59 - Queue: [zayn, Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco]
+2018-10-31 19:57:00 - Parsing channel: Alissa Violet
+2018-10-31 19:57:15 - Channel visited: Jake Paul - UCcgVECVN4OKV6DH1jLkqmcA - Category: Music
+2018-10-31 19:57:27 - Channel visited: FaZe Banks - UCfhmwml--SRANrIVWxEM-SQ - Category: Entertainment
+2018-10-31 19:57:38 - Channel visited: RiceGum - UCDo9msNItILnyF_Y2eHaNQg - Category: Entertainment
+2018-10-31 19:57:50 - Channel visited: Tessa Brooks - UCe2ba_7LwQdNK5BKFSLm41Q - Category: Entertainment
+2018-10-31 19:58:02 - Queue: [Lyrical Lemonade, Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks]
+2018-10-31 19:58:03 - Parsing channel: zayn
+2018-10-31 19:58:10 - Channel visited: Louis Tomlinson - UCBSxVE6JoMg0WXvpm47OS3g - Category: Music
+2018-10-31 19:58:13 - Channel visited: Niall Horan - UCQcTX6rX7JhUpHg_T3STtoQ - Category: Music
+2018-10-31 19:58:17 - Queue: [Alan Walker, Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks, Louis Tomlinson, Niall Horan]
+2018-10-31 19:58:18 - Parsing channel: Lyrical Lemonade
+2018-10-31 19:58:33 - Channel visited: LilXanVEVO - UC6Cc4U4MuBpgR7yzKkY_gZw - Category: Music
+2018-10-31 19:58:37 - Channel visited: Lil Skies - UCLEyFXOmaIgG6h4_6wqLx7Q - Category: Music
+2018-10-31 19:58:45 - Channel visited: CUFBOYS - UCc8o7QS_Gq3x0j40HSj5V3g - Category: Entertainment
+2018-10-31 19:58:57 - Queue: [Anne-Marie, Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks, Louis Tomlinson, Niall Horan, LilXanVEVO, Lil Skies, CUFBOYS]
+2018-10-31 19:58:58 - Parsing channel: Alan Walker
+2018-10-31 19:59:19 - Queue: [Martin Garrix, NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks, Louis Tomlinson, Niall Horan, LilXanVEVO, Lil Skies, CUFBOYS]
+2018-10-31 19:59:20 - Parsing channel: Anne-Marie
+2018-10-31 19:59:32 - Queue: [NoCopyrightSounds, Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks, Louis Tomlinson, Niall Horan, LilXanVEVO, Lil Skies, CUFBOYS]
+2018-10-31 19:59:32 - Parsing channel: Martin Garrix
+2018-10-31 19:59:52 - Channel visited: Dimitri Vegas & Like Mike - UCxmNWF8fQ4miqfGs84dFVrg - Category: Music
+2018-10-31 20:00:05 - Channel visited: Proximity - UC3ifTl5zKiCAhHIBQYcaTeg - Category: Entertainment
+2018-10-31 20:00:18 - Queue: [Trap Nation, Joana Ceddia, The ACE Family, Llama Arts, Mr. Nightmare, storybooth, SSSniperWolf, Drake, EminemMusic, Genius, Kodak Black, No Jumper, Spinnin' Records, Zane Hijazi, Jason Nash, emma chamberlain, PewDiePie, Deji, Philip DeFranco, Jake Paul, FaZe Banks, RiceGum, Tessa Brooks, Louis Tomlinson, Niall Horan, LilXanVEVO, Lil Skies, CUFBOYS, Dimitri Vegas & Like Mike, Proximity]
+2018-10-31 20:00:18 - Parsing channel: NoCopyrightSounds
+2018-10-31 20:00:34 - Channel visited: TheFatRat - UCa_UMppcMsHIzb5LDx1u9zQ - Category: Music
+2018-10-31 20:00:57 - Channel visited: MrSuicideSheep - UC5nc_ZtjKW1htCVZVRxlQAQ - Category: Entertainment
+2018-10-31 20:01:09 - Channel visited: Trap City - UC65afEgL62PGFWXY7n6CUbA - Category: Music

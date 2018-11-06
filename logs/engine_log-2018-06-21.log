@@ -1,0 +1,435 @@
+2018-06-21 22:31:21 - Crawler has been started.
+2018-06-21 22:31:26 - Queue: []
+2018-06-21 22:31:27 - Parsing channel: Katy Perry
+2018-06-21 22:31:32 - Channel visited: Ariana Grande` - UC9CoOnJkIBMdeijd9qYoT_g - Kategoria: Music
+2018-06-21 22:31:35 - Channel visited: Justin Bieber - UCIwFjwMjI0y7PDBVEO9-bkQ - Kategoria: Entertainment
+2018-06-21 22:31:38 - Channel visited: Meghan Trainor - UCkXgEcpoTE4tHsebYBouWpA - Kategoria: People & Blogs
+2018-06-21 22:31:40 - Channel visited: Lady Gaga - UCNL1ZadSjHpjm4q9j2sVtOA - Kategoria: Music
+2018-06-21 22:31:42 - Channel visited: Britney Spears - UCgffc95YDBlkGrBAJUHUmXQ - Kategoria: Music
+2018-06-21 22:31:46 - Channel visited: Ed Sheeran - UC0C-w0YjGpqDXGB8IHb662A - Kategoria: Music
+2018-06-21 22:31:46 - Queue: [Justin Bieber, Meghan Trainor, Lady Gaga, Britney Spears, Ed Sheeran]
+2018-06-21 22:31:46 - Parsing channel: Ariana Grande`
+2018-06-21 22:31:52 - Channel visited: Shawn Mendes - UCAvCL8hyXjSUHKEGuUPr1BA - Kategoria: Music
+2018-06-21 22:31:55 - Channel visited: Fifth Harmony - UCMtpmPs9end-dTNwVq16g4Q - Kategoria: Music
+2018-06-21 22:32:01 - Channel visited: Bruno Mars - UCoUM-UJ7rirJYP8CQ0EIaHA - Kategoria: Music
+2018-06-21 22:32:01 - Queue: [Meghan Trainor, Lady Gaga, Britney Spears, Ed Sheeran, Shawn Mendes, Fifth Harmony, Bruno Mars]
+2018-06-21 22:32:02 - Parsing channel: Justin Bieber
+2018-06-21 22:32:12 - Channel visited: Charlie Puth - UCwppdrjsBPAZg5_cUwQjfMQ - Kategoria: Music
+2018-06-21 22:32:16 - Channel visited: zayn - UC3PdiRW5dUA4V70ueeR1eHA - Kategoria: Music
+2018-06-21 22:32:17 - Queue: [Lady Gaga, Britney Spears, Ed Sheeran, Shawn Mendes, Fifth Harmony, Bruno Mars, Charlie Puth, zayn]
+2018-06-21 22:32:17 - Parsing channel: Meghan Trainor
+2018-06-21 22:32:27 - Channel visited: Little Mix - UCIvqWqjC4aLvp7zI8hzARrA - Kategoria: Music
+2018-06-21 22:32:30 - Channel visited: Anne-Marie - UCBL7ZxVX4GvW4CFiES_-0YA - Kategoria: Music
+2018-06-21 22:32:32 - Queue: [Britney Spears, Ed Sheeran, Shawn Mendes, Fifth Harmony, Bruno Mars, Charlie Puth, zayn, Little Mix, Anne-Marie]
+2018-06-21 22:32:32 - Parsing channel: Lady Gaga
+2018-06-21 22:32:40 - Channel visited: Miley Cyrus - UCn7dB9UMTBDjKtEKBy_XISw - Kategoria: Entertainment
+2018-06-21 22:32:42 - Channel visited: Christina Aguilera - UCgBN6eQyZPnsApiL1QW44Hg - Kategoria: Music
+2018-06-21 22:32:45 - Queue: [Ed Sheeran, Shawn Mendes, Fifth Harmony, Bruno Mars, Charlie Puth, zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera]
+2018-06-21 22:32:46 - Parsing channel: Britney Spears
+2018-06-21 22:32:57 - Queue: [Shawn Mendes, Fifth Harmony, Bruno Mars, Charlie Puth, zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera]
+2018-06-21 22:32:57 - Parsing channel: Ed Sheeran
+2018-06-21 22:33:08 - Channel visited: Maroon 5 - UCBVjMGOIkavEAhyqpxJ73Dw - Kategoria: Music
+2018-06-21 22:33:12 - Channel visited: The Chainsmokers - UCq3Ci-h945sbEYXpVlw7rJg - Kategoria: Music
+2018-06-21 22:33:12 - Queue: [Fifth Harmony, Bruno Mars, Charlie Puth, zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers]
+2018-06-21 22:33:13 - Parsing channel: Shawn Mendes
+2018-06-21 22:33:25 - Channel visited: The Late Late Show with James Corden - UCJ0uqCI0Vqr2Rrt1HseGirg - Kategoria: Entertainment
+2018-06-21 22:33:34 - Queue: [Bruno Mars, Charlie Puth, zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden]
+2018-06-21 22:33:35 - Parsing channel: Fifth Harmony
+2018-06-21 22:33:46 - Channel visited: Jessie J - UC4pEp0mo54WhEBCTYvjVDJA - Kategoria: Music
+2018-06-21 22:33:48 - Queue: [Charlie Puth, zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J]
+2018-06-21 22:33:49 - Parsing channel: Bruno Mars
+2018-06-21 22:34:00 - Channel visited: Mark Ronson - UCSY5V7BJSrxNvvBF0Drslow - Kategoria: Music
+2018-06-21 22:34:02 - Queue: [zayn, Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson]
+2018-06-21 22:34:03 - Parsing channel: Charlie Puth
+2018-06-21 22:34:14 - Queue: [Little Mix, Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson]
+2018-06-21 22:34:15 - Parsing channel: zayn
+2018-06-21 22:34:25 - Channel visited: Niall Horan - UCQcTX6rX7JhUpHg_T3STtoQ - Kategoria: Trailers
+2018-06-21 22:34:27 - Queue: [Anne-Marie, Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan]
+2018-06-21 22:34:28 - Parsing channel: Little Mix
+2018-06-21 22:34:40 - Queue: [Miley Cyrus, Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan]
+2018-06-21 22:34:40 - Parsing channel: Anne-Marie
+2018-06-21 22:34:55 - Channel visited: JFlaMusic - UClkRzsdvg7_RKVhwDwiDZOA - Kategoria: Music
+2018-06-21 22:35:00 - Channel visited: Marshmello - UCEdvpU2pFRCVqU6yIPyTpMQ - Kategoria: Music
+2018-06-21 22:35:03 - Queue: [Christina Aguilera, Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan, JFlaMusic, Marshmello]
+2018-06-21 22:35:03 - Parsing channel: Miley Cyrus
+2018-06-21 22:35:22 - Channel visited: Katy Perry - UCYvmuw-JtVrTZQ-7Y4kd63Q - Kategoria: Music
+2018-06-21 22:35:22 - Queue: [Maroon 5, The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan, JFlaMusic, Marshmello, Katy Perry]
+2018-06-21 22:35:23 - Parsing channel: Christina Aguilera
+2018-06-21 22:35:42 - Queue: [The Chainsmokers, The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan, JFlaMusic, Marshmello, Katy Perry]
+2018-06-21 22:35:42 - Parsing channel: Maroon 5
+2018-06-21 22:35:55 - Queue: [The Late Late Show with James Corden, Jessie J, Mark Ronson, Niall Horan, JFlaMusic, Marshmello, Katy Perry]
+2018-06-21 22:35:55 - Parsing channel: The Chainsmokers
+2018-06-21 22:36:02 - Channel visited: Martin Garrix - UC5H_KXkPbEsGs0tFt8R35mA - Kategoria: Music
+2018-06-21 22:36:13 - Channel visited: Spinnin' Records - UCpDJl2EmP7Oh90Vylx0dZtA - Kategoria: Music
+2018-06-21 22:36:16 - Queue: [Jessie J, Mark Ronson, Niall Horan, JFlaMusic, Marshmello, Katy Perry, Martin Garrix, Spinnin' Records]
+2018-06-21 22:36:17 - Parsing channel: The Late Late Show with James Corden
+2018-06-21 22:36:28 - Channel visited: TheEllenShow - UCp0hYYBW6IMayGgR-WeoCvQ - Kategoria: Entertainment
+2018-06-21 22:36:38 - Channel visited: The Tonight Show Starring Jimmy Fallon - UC8-Th83bH_thdKZDJCrn88g - Kategoria: Comedy
+2018-06-21 22:36:47 - Channel visited: Team Coco - UCi7GJNg51C3jgmYTUwqoUXA - Kategoria: Comedy
+2018-06-21 22:36:56 - Channel visited: Late Night with Seth Meyers - UCVTyTA7-g9nopHeHbeuvpRA - Kategoria: Comedy
+2018-06-21 22:37:06 - Channel visited: Saturday Night Live - UCqFzWxSCi39LnW1JKFR3efg - Kategoria: Entertainment
+2018-06-21 22:37:06 - Queue: [Mark Ronson, Niall Horan, JFlaMusic, Marshmello, Katy Perry, Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live]
+2018-06-21 22:37:07 - Parsing channel: Jessie J
+2018-06-21 22:37:18 - Queue: [Niall Horan, JFlaMusic, Marshmello, Katy Perry, Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live]
+2018-06-21 22:37:19 - Parsing channel: Mark Ronson
+2018-06-21 22:37:35 - Channel visited: Ultra Music - UC4rasfm9J-X4jNl9SvXp8xA - Kategoria: Music
+2018-06-21 22:37:39 - Channel added to database: Niall Horan
+2018-06-21 22:37:39 - Queue: [JFlaMusic, Marshmello, Katy Perry, Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music]
+2018-06-21 22:37:39 - Parsing channel: Niall Horan
+2018-06-21 22:37:46 - Channel visited: One Direction - UCb2HGwORFBo94DmRx4oLzow - Kategoria: Music
+2018-06-21 22:37:51 - Queue: [Marshmello, Katy Perry, Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction]
+2018-06-21 22:37:52 - Parsing channel: JFlaMusic
+2018-06-21 22:38:03 - Channel visited: 창현 거리노래방& 쏭카페 - UCPJmHR4CG_lRuVwKCo0kjjg - Kategoria: Entertainment
+2018-06-21 22:38:21 - Channel visited: Big Marvel - UCgI8VzlDGsHCp0-9Een1eKw - Kategoria: Music
+2018-06-21 22:38:30 - Channel visited: 1MILLION Dance Studio - UCw8ZhLPdQ0u_Y-TLKd61hGA - Kategoria: Entertainment
+2018-06-21 22:38:39 - Channel visited: 1theK (원더케이) - UCweOkPb1wVVH0Q0Tlj4a5Pw - Kategoria: Entertainment
+2018-06-21 22:38:49 - Queue: [Katy Perry, Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이)]
+2018-06-21 22:38:50 - Parsing channel: Marshmello
+2018-06-21 22:39:14 - Channel visited: Trap Nation - UCa10nxShhzNrCE1o2ZOPztg - Kategoria: Music
+2018-06-21 22:39:18 - Channel visited: Skrillex - UC_TVqp_SyG6j5hG-xVRy95A - Kategoria: Music
+2018-06-21 22:39:18 - Queue: [Martin Garrix, Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex]
+2018-06-21 22:39:18 - Parsing channel: Katy Perry
+2018-06-21 22:39:31 - Queue: [Spinnin' Records, TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex]
+2018-06-21 22:39:31 - Parsing channel: Martin Garrix
+2018-06-21 22:39:46 - Channel visited: KygoMusic - UCCFJeI-2sT_cWgz-QJRgbCw - Kategoria: Music
+2018-06-21 22:39:55 - Channel visited: Proximity - UC3ifTl5zKiCAhHIBQYcaTeg - Kategoria: Entertainment
+2018-06-21 22:40:07 - Queue: [TheEllenShow, The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity]
+2018-06-21 22:40:08 - Parsing channel: Spinnin' Records
+2018-06-21 22:40:26 - Channel visited: Armada Music - UCGZXYc32ri4D0gSLPf2pZXQ - Kategoria: Music
+2018-06-21 22:40:52 - Channel visited: MrSuicideSheep - UC5nc_ZtjKW1htCVZVRxlQAQ - Kategoria: Entertainment
+2018-06-21 22:41:00 - Channel visited: Trap City - UC65afEgL62PGFWXY7n6CUbA - Kategoria: Music
+2018-06-21 22:41:01 - Queue: [The Tonight Show Starring Jimmy Fallon, Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City]
+2018-06-21 22:41:01 - Parsing channel: TheEllenShow
+2018-06-21 22:41:29 - Channel visited: The Late Show with Stephen Colbert - UCMtFAi84ehTSYSE9XoHefig - Kategoria: Entertainment
+2018-06-21 22:41:55 - Channel visited: Inside Edition - UC9k-yiEpRHMNVOnOi_aQK8w - Kategoria: Trailers
+2018-06-21 22:41:56 - Queue: [Team Coco, Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition]
+2018-06-21 22:41:56 - Parsing channel: The Tonight Show Starring Jimmy Fallon
+2018-06-21 22:42:31 - Queue: [Late Night with Seth Meyers, Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition]
+2018-06-21 22:42:31 - Parsing channel: Team Coco
+2018-06-21 22:43:20 - Queue: [Saturday Night Live, Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition]
+2018-06-21 22:43:21 - Parsing channel: Late Night with Seth Meyers
+2018-06-21 22:43:44 - Channel visited: The Daily Show with Trevor Noah - UCwWhs_6x42TyRM4Wstoq8HA - Kategoria: Comedy
+2018-06-21 22:44:00 - Queue: [Ultra Music, One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah]
+2018-06-21 22:44:01 - Parsing channel: Saturday Night Live
+2018-06-21 22:44:36 - Channel visited: Comedy Central - UCUsN5ZwHx2kILm84-jPDeXw - Kategoria: Comedy
+2018-06-21 22:44:36 - Queue: [One Direction, 창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central]
+2018-06-21 22:44:37 - Parsing channel: Ultra Music
+2018-06-21 22:45:11 - Channel visited: Blanco y Negro Music - UC_MsAEyTYUBfxp9j1XwMhMw - Kategoria: Music
+2018-06-21 22:45:28 - Channel visited: RotonMusicTV - UCV-iSZdmPWV9pq-t-dlYzQg - Kategoria: Music
+2018-06-21 22:45:28 - Queue: [창현 거리노래방& 쏭카페, Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV]
+2018-06-21 22:45:29 - Parsing channel: One Direction
+2018-06-21 22:45:42 - Queue: [Big Marvel, 1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV]
+2018-06-21 22:45:43 - Parsing channel: 창현 거리노래방& 쏭카페
+2018-06-21 22:45:54 - Channel visited: 보겸 TV - UCu9BCtGIEr73LXZsKmoujKw - Kategoria: Gaming
+2018-06-21 22:46:32 - Queue: [1MILLION Dance Studio, 1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV]
+2018-06-21 22:46:33 - Parsing channel: Big Marvel
+2018-06-21 22:46:43 - Channel visited: ibighit - UC3IZKseVpdzPSBaWxBxundA - Kategoria: Music
+2018-06-21 22:46:46 - Channel visited: BANGTANTV - UCLkAepWjdylmXSltofFvsYQ - Kategoria: Music
+2018-06-21 22:47:05 - Channel visited: QPark - UCEq2mmBydypRUvTlTgm_ghA - Kategoria: Entertainment
+2018-06-21 22:47:21 - Queue: [1theK (원더케이), Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark]
+2018-06-21 22:47:22 - Parsing channel: 1MILLION Dance Studio
+2018-06-21 22:47:35 - Channel visited: VIVA DANCE STUDIO - UC3LIEPioeH0CmVCmCn4JS1g - Kategoria: Entertainment
+2018-06-21 22:47:46 - Channel visited: BLACKPINK - UCOmHUn--16B90oW2L6FRR3A - Kategoria: People & Blogs
+2018-06-21 22:47:55 - Channel visited: Matt Steffanina - UCczFdwWpVEpoqb-eMm4c4dQ - Kategoria: Entertainment
+2018-06-21 22:48:04 - Queue: [Trap Nation, Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina]
+2018-06-21 22:48:05 - Parsing channel: 1theK (원더케이)
+2018-06-21 22:48:09 - Channel visited: Stone Music Entertainment - UC_pwIXKXNm5KGhdEVzmY60A - Kategoria: Music
+2018-06-21 22:48:17 - Channel visited: Mnet K-POP - UCbD8EppRX3ZwJSou-TVo90A - Kategoria: Entertainment
+2018-06-21 22:48:27 - Channel visited: jypentertainment - UCaO6TYtlC8U5ttz62hTrZgg - Kategoria: Music
+2018-06-21 22:48:36 - Channel visited: Mnet Official - UCepUWUpH45hRTi-QePdq1Bg - Kategoria: Entertainment
+2018-06-21 22:48:41 - Channel visited: 딩고 뮤직 / dingo music - UCtCiO5t2voB14CmZKTkIzPQ - Kategoria: Music
+2018-06-21 22:48:41 - Queue: [Skrillex, KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music]
+2018-06-21 22:48:42 - Parsing channel: Trap Nation
+2018-06-21 22:49:01 - Channel visited: Chill Nation - UCM9KEEuzacwVlkt9JfJad7g - Kategoria: Music
+2018-06-21 22:49:19 - Channel visited: House Nation - UCj_Y-xJ2DRDGP4ilfzplCOQ - Kategoria: Music
+2018-06-21 22:49:37 - Channel visited: NoCopyrightSounds - UC_aEa8K-EOJ3D6gOs7HcyNg - Kategoria: Music
+2018-06-21 22:49:37 - Queue: [KygoMusic, Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds]
+2018-06-21 22:49:38 - Parsing channel: Skrillex
+2018-06-21 22:49:58 - Channel visited: DubstepGutter - UCG6QEHCBfWZOnv7UVxappyw - Kategoria: Music
+2018-06-21 22:50:20 - Queue: [Proximity, Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter]
+2018-06-21 22:50:20 - Parsing channel: KygoMusic
+2018-06-21 22:51:01 - Channel visited: MrRevillz - UCd3TI79UTgYvVEq5lTnJ4uQ - Kategoria: Music
+2018-06-21 22:51:01 - Queue: [Armada Music, MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz]
+2018-06-21 22:51:02 - Parsing channel: Proximity
+2018-06-21 22:51:20 - Queue: [MrSuicideSheep, Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz]
+2018-06-21 22:51:21 - Parsing channel: Armada Music
+2018-06-21 22:52:05 - Channel visited: Revealed Recordings - UCnhHe0_bk_1_0So41vsZvWw - Kategoria: Music
+2018-06-21 22:52:14 - Queue: [Trap City, The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings]
+2018-06-21 22:52:14 - Parsing channel: MrSuicideSheep
+2018-06-21 22:52:33 - Channel visited: xKito Music - UCMOgdURr7d8pOVlc-alkfRg - Kategoria: Music
+2018-06-21 22:52:51 - Channel visited: CloudKid - UCSa8IUd1uEjlREMa21I3ZPQ - Kategoria: Music
+2018-06-21 22:53:08 - Channel visited: Koala Kontrol - UCBYg9_11ErMsFFNR66TRuLA - Kategoria: Entertainment
+2018-06-21 22:53:09 - Queue: [The Late Show with Stephen Colbert, Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol]
+2018-06-21 22:53:09 - Parsing channel: Trap City
+2018-06-21 22:53:28 - Channel visited: TrapMusicHDTV - UCaB_KyYOjfNHBm0f-TvBmiw - Kategoria: Music
+2018-06-21 22:53:45 - Channel visited: Trap Party - UC9Xnzk7NEdUzU6kJ9hncXHA - Kategoria: Music
+2018-06-21 22:53:54 - Channel visited: Trap Music Now. - UCi2bIyFtz-JdI-ou8kaqsqg - Kategoria: Music
+2018-06-21 22:53:54 - Queue: [Inside Edition, The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now.]
+2018-06-21 22:53:55 - Parsing channel: The Late Show with Stephen Colbert
+2018-06-21 22:54:39 - Channel visited: CNN - UCupvZG-5ko_eiXAupbDfxWw - Kategoria: Trailers
+2018-06-21 22:54:39 - Queue: [The Daily Show with Trevor Noah, Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN]
+2018-06-21 22:54:40 - Parsing channel: Inside Edition
+2018-06-21 22:54:50 - Channel visited: INSIDER - UCHJuQZuzapBh-CuhRYxIZrg - Kategoria: Travel & Events
+2018-06-21 22:55:00 - Channel visited: BuzzFeedVideo - UCpko_-a4wgz2u_DgDgd9fqA - Kategoria: People & Blogs
+2018-06-21 22:55:10 - Channel visited: Barcroft TV - UCfwx98Wty7LhdlkxL5PZyLA - Kategoria: Trailers
+2018-06-21 22:55:19 - Channel visited: ABC News - UCBi2mrWuNuyYy4gbM6fU18Q - Kategoria: Trailers
+2018-06-21 22:55:29 - Channel visited: TLC - UCqf2gzmKtH3PaAbt-qgFFsw - Kategoria: Entertainment
+2018-06-21 22:55:38 - Channel visited: Daily Dose Of Internet - UCdC0An4ZPNr_YiFiYoVbwaw - Kategoria: Entertainment
+2018-06-21 22:55:38 - Queue: [Comedy Central, Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet]
+2018-06-21 22:55:38 - Parsing channel: The Daily Show with Trevor Noah
+2018-06-21 22:56:24 - Channel visited: The Young Turks - UC1yBKRuGpC1tSM73A0ZjYjQ - Kategoria: Trailers
+2018-06-21 22:56:34 - Channel visited: LastWeekTonight - UC3XTzVzaHQEd30rQbuvCtTQ - Kategoria: Entertainment
+2018-06-21 22:56:34 - Queue: [Blanco y Negro Music, RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight]
+2018-06-21 22:56:35 - Parsing channel: Comedy Central
+2018-06-21 22:57:18 - Queue: [RotonMusicTV, 보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight]
+2018-06-21 22:57:18 - Parsing channel: Blanco y Negro Music
+2018-06-21 22:57:59 - Channel visited: Cat Music - UCCTR5nIFvWBW9MeGEGPNG4g - Kategoria: Music
+2018-06-21 22:58:00 - Queue: [보겸 TV, ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music]
+2018-06-21 22:58:00 - Parsing channel: RotonMusicTV
+2018-06-21 22:58:20 - Channel visited: MediaPro Music - UC6oZDJZhFSFjSSHpzkyr03g - Kategoria: Music
+2018-06-21 22:58:56 - Queue: [ibighit, BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music]
+2018-06-21 22:58:57 - Parsing channel: 보겸 TV
+2018-06-21 22:59:15 - Crawler has been started.
+2018-06-21 22:59:20 - Channel visited: 재넌 - UCem8l1w4OWhkqpoOg1SB4_w - Kategoria: Entertainment
+2018-06-21 22:59:54 - Channel visited: 감스트GAMST - UCbFzvzDu17eDZ3RIeaLRswQ - Kategoria: Sports
+2018-06-21 22:59:54 - Queue: [BANGTANTV, QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST]
+2018-06-21 22:59:54 - Parsing channel: ibighit
+2018-06-21 23:00:31 - Queue: [QPark, VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST]
+2018-06-21 23:00:31 - Parsing channel: BANGTANTV
+2018-06-21 23:01:13 - Channel visited: M2 - UCTQVIXvcHrR9jYoJ6qaBAow - Kategoria: Entertainment
+2018-06-21 23:01:13 - Queue: [VIVA DANCE STUDIO, BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2]
+2018-06-21 23:01:14 - Parsing channel: QPark
+2018-06-21 23:01:41 - Channel visited: Badabun - UCYWOjHweP2V-8kGKmmAmQJQ - Kategoria: Entertainment
+2018-06-21 23:01:53 - Queue: [BLACKPINK, Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun]
+2018-06-21 23:01:54 - Parsing channel: VIVA DANCE STUDIO
+2018-06-21 23:02:13 - Channel visited: East2WestOfficial - UCEM711HSGyGQQWkmzoiev8g - Kategoria: Entertainment
+2018-06-21 23:02:22 - Channel visited: #D-POP STUDIO - UCKUMvfnMBsZBOe8h7ze_hiw - Kategoria: Entertainment
+2018-06-21 23:02:35 - Channel visited: waveya 2011 - UCmR-oFhgGGe-dCRiDg2ysLw - Kategoria: Entertainment
+2018-06-21 23:02:46 - Queue: [Matt Steffanina, Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011]
+2018-06-21 23:02:46 - Parsing channel: BLACKPINK
+2018-06-21 23:03:02 - Channel visited: MBCkpop - UCe52oeb7Xv_KaJsEzcKXJJg - Kategoria: Music
+2018-06-21 23:03:24 - Queue: [Stone Music Entertainment, Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop]
+2018-06-21 23:03:24 - Parsing channel: Matt Steffanina
+2018-06-21 23:03:35 - Channel visited: KYLE HANAGAMI - UCGzGbfhdFsjP1yfJUEpSvWg - Kategoria: Entertainment
+2018-06-21 23:03:52 - Channel visited: Tim Milgram - UCH7glo0Lb4YoW2QnN5Z1IAw - Kategoria: Entertainment
+2018-06-21 23:04:03 - Channel visited: Tricia Miranda - UCAI6RcZby4fVn1-VbPY2qzw - Kategoria: Entertainment
+2018-06-21 23:04:03 - Queue: [Mnet K-POP, jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda]
+2018-06-21 23:04:04 - Parsing channel: Stone Music Entertainment
+2018-06-21 23:04:57 - Channel visited: starshipTV - UCYDmx2Sfpnaxg488yBpZIGg - Kategoria: Music
+2018-06-21 23:04:58 - Queue: [jypentertainment, Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV]
+2018-06-21 23:04:58 - Parsing channel: Mnet K-POP
+2018-06-21 23:05:13 - Channel visited: KBSKpop - UCeLPm9yH_a_QH8n6445G-Ow - Kategoria: Entertainment
+2018-06-21 23:05:21 - Queue: [Mnet Official, 딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop]
+2018-06-21 23:05:22 - Parsing channel: jypentertainment
+2018-06-21 23:06:01 - Channel visited: TWICE JAPAN OFFICIAL YouTube Channel - UCCRb6nYKaT8tzLA8CwDdUtw - Kategoria: Music
+2018-06-21 23:06:01 - Queue: [딩고 뮤직 / dingo music, Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel]
+2018-06-21 23:06:02 - Parsing channel: Mnet Official
+2018-06-21 23:06:20 - Channel visited: KOCOWA TV - UCAqlxq4Bs9PjI86M9lM18TA - Kategoria: Entertainment
+2018-06-21 23:06:36 - Queue: [Chill Nation, House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV]
+2018-06-21 23:06:36 - Parsing channel: 딩고 뮤직 / dingo music
+2018-06-21 23:07:23 - Queue: [House Nation, NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV]
+2018-06-21 23:07:23 - Parsing channel: Chill Nation
+2018-06-21 23:07:50 - Channel visited: Bass Nation - UCCvVpbYRgYjMN7mG7qQN0Pg - Kategoria: Music
+2018-06-21 23:08:15 - Queue: [NoCopyrightSounds, DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation]
+2018-06-21 23:08:15 - Parsing channel: House Nation
+2018-06-21 23:08:49 - Queue: [DubstepGutter, MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation]
+2018-06-21 23:08:50 - Parsing channel: NoCopyrightSounds
+2018-06-21 23:09:29 - Channel visited: TheFatRat - UCa_UMppcMsHIzb5LDx1u9zQ - Kategoria: Music
+2018-06-21 23:09:39 - Channel visited: Monstercat: Uncaged - UCJ6td3C9QlPO9O_J5dF4ZzA - Kategoria: Music
+2018-06-21 23:09:48 - Queue: [MrRevillz, Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged]
+2018-06-21 23:09:49 - Parsing channel: DubstepGutter
+2018-06-21 23:10:38 - Channel visited: UKF Dubstep - UCfLFTP1uTuIizynWsZq2nkQ - Kategoria: Music
+2018-06-21 23:10:38 - Queue: [Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep]
+2018-06-21 23:10:39 - Parsing channel: MrRevillz
+2018-06-21 23:10:40 - Queue: [Revealed Recordings, xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep]
+2018-06-21 23:10:41 - Parsing channel: Katy Perry
+2018-06-21 23:10:55 - Queue: [xKito Music, CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep]
+2018-06-21 23:10:56 - Parsing channel: Revealed Recordings
+2018-06-21 23:11:20 - Channel visited: Nik Cooper - UCaAlh3Iy7rAcO3MgD_O3Kkg - Kategoria: Entertainment
+2018-06-21 23:11:46 - Queue: [CloudKid, Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper]
+2018-06-21 23:11:47 - Parsing channel: xKito Music
+2018-06-21 23:12:29 - Queue: [Koala Kontrol, TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper]
+2018-06-21 23:12:29 - Parsing channel: CloudKid
+2018-06-21 23:13:20 - Channel added to database: Koala Kontrol
+2018-06-21 23:13:20 - Queue: [TrapMusicHDTV, Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper]
+2018-06-21 23:13:20 - Parsing channel: Koala Kontrol
+2018-06-21 23:13:30 - Queue: [Trap Party, Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper]
+2018-06-21 23:13:31 - Parsing channel: TrapMusicHDTV
+2018-06-21 23:14:22 - Queue: [Trap Music Now., CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper]
+2018-06-21 23:14:22 - Parsing channel: Trap Party
+2018-06-21 23:15:16 - Channel visited: Trap and Bass - UCqmhfPcgiaRVWUy9F_HeV5g - Kategoria: Entertainment
+2018-06-21 23:15:17 - Queue: [CNN, INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass]
+2018-06-21 23:15:17 - Parsing channel: Trap Music Now.
+2018-06-21 23:16:12 - Queue: [INSIDER, BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass]
+2018-06-21 23:16:12 - Parsing channel: CNN
+2018-06-21 23:16:32 - Channel visited: Fox News - UCXIJgqnII2ZOINSWNOGFThA - Kategoria: Trailers
+2018-06-21 23:17:03 - Queue: [BuzzFeedVideo, Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News]
+2018-06-21 23:17:04 - Parsing channel: INSIDER
+2018-06-21 23:17:32 - Channel visited: Vat19 - UCDRbNGFusqlXX4a5vwi9ouQ - Kategoria: Entertainment
+2018-06-21 23:17:42 - Channel visited: Tasty - UCJFp8uSYCjXOMnkUyb3CQ3Q - Kategoria: Howto & Style
+2018-06-21 23:17:53 - Queue: [Barcroft TV, ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty]
+2018-06-21 23:17:54 - Parsing channel: BuzzFeedVideo
+2018-06-21 23:18:04 - Queue: [ABC News, TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty]
+2018-06-21 23:18:04 - Parsing channel: Barcroft TV
+2018-06-21 23:18:52 - Channel visited: As/Is - UCay_OLhWtf9iklq8zg_or0g - Kategoria: People & Blogs
+2018-06-21 23:18:53 - Queue: [TLC, Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is]
+2018-06-21 23:18:53 - Parsing channel: ABC News
+2018-06-21 23:19:50 - Queue: [Daily Dose Of Internet, The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is]
+2018-06-21 23:19:51 - Parsing channel: TLC
+2018-06-21 23:20:18 - Channel visited: Dr. Phil - UCYLR1ghzYNyvfjw78raCuxA - Kategoria: Entertainment
+2018-06-21 23:20:27 - Channel visited: Lifetime - UCpYF_3dMxbTukeCG2GsgPbA - Kategoria: Entertainment
+2018-06-21 23:20:35 - Queue: [The Young Turks, LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime]
+2018-06-21 23:20:36 - Parsing channel: Daily Dose Of Internet
+2018-06-21 23:21:19 - Channel visited: The Dodo - UCINb0wqPz-A0dV9nARjJlOQ - Kategoria: Pets & Animals
+2018-06-21 23:21:27 - Channel visited: BRIGHT SIDE - UC4rlAVgAK0SGk-yTfe48Qpw - Kategoria: Howto & Style
+2018-06-21 23:21:28 - Queue: [LastWeekTonight, Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE]
+2018-06-21 23:21:28 - Parsing channel: The Young Turks
+2018-06-21 23:22:29 - Channel added to database: LastWeekTonight
+2018-06-21 23:22:29 - Queue: [Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE]
+2018-06-21 23:22:30 - Parsing channel: LastWeekTonight
+2018-06-21 23:22:31 - Queue: [Cat Music, MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE]
+2018-06-21 23:22:32 - Parsing channel: Katy Perry
+2018-06-21 23:22:44 - Queue: [MediaPro Music, 재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE]
+2018-06-21 23:22:45 - Parsing channel: Cat Music
+2018-06-21 23:23:12 - Channel visited: Nek Music Tv - UCt7Prw97_jb8oAlKnO3oVcQ - Kategoria: Music
+2018-06-21 23:23:32 - Queue: [재넌, 감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv]
+2018-06-21 23:23:33 - Parsing channel: MediaPro Music
+2018-06-21 23:24:24 - Channel visited: HaHaHa Production - UCZFZH5uzK8RVRE1lrP7L2yQ - Kategoria: Music
+2018-06-21 23:24:24 - Queue: [감스트GAMST, M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production]
+2018-06-21 23:24:25 - Parsing channel: 재넌
+2018-06-21 23:25:38 - Channel added to database: 감스트GAMST
+2018-06-21 23:25:38 - Queue: [M2, Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production]
+2018-06-21 23:25:39 - Parsing channel: 감스트GAMST
+2018-06-21 23:26:34 - Queue: [Badabun, East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production]
+2018-06-21 23:26:35 - Parsing channel: M2
+2018-06-21 23:26:59 - Queue: [East2WestOfficial, #D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production]
+2018-06-21 23:27:00 - Parsing channel: Badabun
+2018-06-21 23:27:10 - Channel visited: GENIAL - UCbrd1vu4_7qIE6IPV_dA-OA - Kategoria: Howto & Style
+2018-06-21 23:27:20 - Channel visited: #Refugio Mental - UCgQRN9EO5ksPZjs7EasIftQ - Kategoria: Entertainment
+2018-06-21 23:27:29 - Channel visited: Luisito Comunica - UCECJDeK0MNapZbpaOzxrUPA - Kategoria: Comedy
+2018-06-21 23:27:39 - Channel visited: Drawblogs - UCkuPobJMx7DPUdwlVo1TFfA - Kategoria: Entertainment
+2018-06-21 23:27:49 - Channel visited: LosPolinesios - UCs8qka8tfhdc69wzXYdtZ3A - Kategoria: People & Blogs
+2018-06-21 23:27:54 - Channel visited: Tu COSMOPOLIS - UCo4ywJQXfUIB0lCBpczW3cA - Kategoria: People & Blogs
+2018-06-21 23:27:55 - Queue: [#D-POP STUDIO, waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS]
+2018-06-21 23:27:55 - Parsing channel: East2WestOfficial
+2018-06-21 23:28:06 - Channel visited: Koreos UCLA - UCniTzJFGV-kvy2GuXQPvdnQ - Kategoria: Entertainment
+2018-06-21 23:28:25 - Channel visited: SoNE1 - UCD5TjjSGTGoVhjnLnYvMZKA - Kategoria: Film & Animation
+2018-06-21 23:28:53 - Queue: [waveya 2011, MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1]
+2018-06-21 23:28:54 - Parsing channel: #D-POP STUDIO
+2018-06-21 23:29:50 - Queue: [MBCkpop, KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1]
+2018-06-21 23:29:50 - Parsing channel: waveya 2011
+2018-06-21 23:30:31 - Queue: [KYLE HANAGAMI, Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1]
+2018-06-21 23:30:31 - Parsing channel: MBCkpop
+2018-06-21 23:31:00 - Channel visited: SBS Inkigayo - UCS_hnpJLQTvBkqALgapi_4g - Kategoria: Music
+2018-06-21 23:31:19 - Queue: [Tim Milgram, Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo]
+2018-06-21 23:31:19 - Parsing channel: KYLE HANAGAMI
+2018-06-21 23:32:18 - Queue: [Tricia Miranda, starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo]
+2018-06-21 23:32:18 - Parsing channel: Tim Milgram
+2018-06-21 23:32:51 - Queue: [starshipTV, KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo]
+2018-06-21 23:32:52 - Parsing channel: Tricia Miranda
+2018-06-21 23:33:19 - Channel visited: WilldaBeast Adams - UClQfOYEr5zYoixhg_3_y-8Q - Kategoria: Entertainment
+2018-06-21 23:33:45 - Queue: [KBSKpop, TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams]
+2018-06-21 23:33:45 - Parsing channel: starshipTV
+2018-06-21 23:34:38 - Queue: [TWICE JAPAN OFFICIAL YouTube Channel, KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams]
+2018-06-21 23:34:39 - Parsing channel: KBSKpop
+2018-06-21 23:35:29 - Queue: [KOCOWA TV, Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams]
+2018-06-21 23:35:29 - Parsing channel: TWICE JAPAN OFFICIAL YouTube Channel
+2018-06-21 23:35:36 - Channel visited: TWICE - UCzgxx_DM2Dcb9Y1spb9mUJA - Kategoria: Music
+2018-06-21 23:35:53 - Channel visited: avex - UC1oPBUWifc0QOOY8DEKhLuQ - Kategoria: Music
+2018-06-21 23:36:04 - Queue: [Bass Nation, TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex]
+2018-06-21 23:36:05 - Parsing channel: KOCOWA TV
+2018-06-21 23:36:16 - Channel visited: KBS World TV - UC5BMQOsAB8hKUyHu9KI6yig - Kategoria: Entertainment
+2018-06-21 23:36:35 - Channel visited: MBCentertainment - UCiBr0bK06imaMbLc8sAEz0A - Kategoria: Entertainment
+2018-06-21 23:36:54 - Channel visited: TV-People - UC1cWTErb7vw_UmmuB0dYgsQ - Kategoria: Entertainment
+2018-06-21 23:37:03 - Channel visited: JTBC Entertainment - UCFL1sCAksD6_7JIZwwHcwjQ - Kategoria: Entertainment
+2018-06-21 23:37:04 - Queue: [TheFatRat, Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:37:04 - Parsing channel: Bass Nation
+2018-06-21 23:37:33 - Channel added to database: TheFatRat
+2018-06-21 23:37:33 - Queue: [Monstercat: Uncaged, UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:37:34 - Parsing channel: TheFatRat
+2018-06-21 23:37:54 - Queue: [UKF Dubstep, Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:37:54 - Parsing channel: Monstercat: Uncaged
+2018-06-21 23:38:50 - Queue: [Nik Cooper, Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:38:51 - Parsing channel: UKF Dubstep
+2018-06-21 23:39:27 - Queue: [Trap and Bass, Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:39:27 - Parsing channel: Nik Cooper
+2018-06-21 23:40:05 - Queue: [Fox News, Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:40:06 - Parsing channel: Trap and Bass
+2018-06-21 23:40:59 - Queue: [Vat19, Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment]
+2018-06-21 23:41:00 - Parsing channel: Fox News
+2018-06-21 23:41:26 - Channel visited: The Alex Jones Channel - UCvsye7V9psc-APX6wV1twLg - Kategoria: Trailers
+2018-06-21 23:41:46 - Queue: [Tasty, As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel]
+2018-06-21 23:41:47 - Parsing channel: Vat19
+2018-06-21 23:42:31 - Channel visited: Collins Key - UC7TTtOQKMXTWWMtWQMIgVSA - Kategoria: Entertainment
+2018-06-21 23:42:32 - Queue: [As/Is, Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key]
+2018-06-21 23:42:32 - Parsing channel: Tasty
+2018-06-21 23:42:52 - Channel visited: Bon Appétit - UCbpMy0Fg74eXXkvxJrtEn3w - Kategoria: Howto & Style
+2018-06-21 23:43:02 - Channel visited: Binging with Babish - UCJHA_jMfCvEnv-3kRjTCQXw - Kategoria: Entertainment
+2018-06-21 23:43:11 - Channel visited: So Yummy - UCH8NnRkxQg1zX7mHFRPq73g - Kategoria: Howto & Style
+2018-06-21 23:43:21 - Channel visited: Munchies - UCaLfMkkHhSA_LaCta0BzyhQ - Kategoria: Entertainment
+2018-06-21 23:43:31 - Channel visited: Gordon Ramsay - UCIEv3lZ_tNXHzL3ox-_uUGQ - Kategoria: Entertainment
+2018-06-21 23:43:31 - Queue: [Dr. Phil, Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay]
+2018-06-21 23:43:32 - Parsing channel: As/Is
+2018-06-21 23:43:43 - Channel visited: Kyutie - UCR6g32TTJcIRwn71M9lPd-g - Kategoria: Entertainment
+2018-06-21 23:43:53 - Queue: [Lifetime, The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie]
+2018-06-21 23:43:54 - Parsing channel: Dr. Phil
+2018-06-21 23:44:26 - Channel visited: tlc uk - UC2vlpX8sNDBmPcY_1_QSGJg - Kategoria: Entertainment
+2018-06-21 23:45:06 - Channel added to database: Lifetime
+2018-06-21 23:45:06 - Queue: [The Dodo, BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk]
+2018-06-21 23:45:08 - Parsing channel: Lifetime
+2018-06-21 23:48:17 - Queue: [BRIGHT SIDE, Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk]
+2018-06-21 23:48:19 - Parsing channel: The Dodo
+2018-06-21 23:50:01 - Channel visited: Rumble Viral - UCW3T8dQVEynwj6-_DArcM7w - Kategoria: Pets & Animals
+2018-06-21 23:50:12 - Queue: [Nek Music Tv, HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral]
+2018-06-21 23:50:13 - Parsing channel: BRIGHT SIDE
+2018-06-21 23:50:23 - Channel visited: TheTalko - UC1Ydgfp2x8oLYG66KZHXs1g - Kategoria: Entertainment
+2018-06-21 23:50:41 - Channel visited: BE AMAZED - UCkQO3QsgTpNTsOw6ujimT5Q - Kategoria: Entertainment
+2018-06-21 23:50:50 - Channel visited: #Mind Warehouse - UCYenDLnIHsoqQ6smwKXQ7Hg - Kategoria: Education
+2018-06-21 23:50:58 - Queue: [HaHaHa Production, GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse]
+2018-06-21 23:50:59 - Parsing channel: Nek Music Tv
+2018-06-21 23:51:18 - Channel visited: AmmA Music - UCzg-KdISpftt0hjybLVYAhQ - Kategoria: Entertainment
+2018-06-21 23:51:21 - Channel visited: Big Man Music Oficial - UC5GMxz7GX3LdKexkpwASYNg - Kategoria: Entertainment
+2018-06-21 23:51:24 - Channel visited: viperprod - UCpYTGMR43S4CIkVBB_vnH6Q - Kategoria: Entertainment
+2018-06-21 23:51:37 - Queue: [GENIAL, #Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod]
+2018-06-21 23:51:37 - Parsing channel: HaHaHa Production
+2018-06-21 23:52:22 - Queue: [#Refugio Mental, Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod]
+2018-06-21 23:52:23 - Parsing channel: GENIAL
+2018-06-21 23:52:44 - Channel visited: XpressTV - UC0YFjwJc3b1otDerdv6CfWA - Kategoria: Entertainment
+2018-06-21 23:52:54 - Channel visited: Wefere - UCd78H0ok2gRAb6g6pGdFdGQ - Kategoria: Entertainment
+2018-06-21 23:53:03 - Channel visited: Luan Palomera - UCUl-2o1dLbH_GCoU_B_1tsg - Kategoria: Entertainment
+2018-06-21 23:53:20 - Queue: [Luisito Comunica, Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera]
+2018-06-21 23:53:21 - Parsing channel: #Refugio Mental
+2018-06-21 23:53:49 - Channel visited: luchosback - UCTNqJW1_LxrxAxbWVsI4tFg - Kategoria: People & Blogs
+2018-06-21 23:54:06 - Queue: [Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback]
+2018-06-21 23:54:07 - Parsing channel: Luisito Comunica
+2018-06-21 23:54:08 - Queue: [Drawblogs, LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback]
+2018-06-21 23:54:09 - Parsing channel: Katy Perry
+2018-06-21 23:54:22 - Queue: [LosPolinesios, Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback]
+2018-06-21 23:54:22 - Parsing channel: Drawblogs
+2018-06-21 23:54:38 - Channel visited: DeToxoMoroxo - UCq_oSgHK9lk6NUUgkhUOPnw - Kategoria: Entertainment
+2018-06-21 23:54:58 - Channel visited: CamelloMello - UC-eU7AgNlfLd8tIVUE2EaUQ - Kategoria: Entertainment
+2018-06-21 23:55:07 - Queue: [Tu COSMOPOLIS, Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello]
+2018-06-21 23:55:07 - Parsing channel: LosPolinesios
+2018-06-21 23:55:18 - Channel visited: Lulu99 - UCCyCcRlr_NRDP-JFAhBxq1g - Kategoria: Entertainment
+2018-06-21 23:55:27 - Channel visited: Gibby :) - UCY62oxtmOKk5-JLJOXBMWnA - Kategoria: People & Blogs
+2018-06-21 23:55:36 - Channel visited: Más SKabeche - UC0n5Ihqix8mEqGsjygiJk6Q - Kategoria: Travel & Events
+2018-06-21 23:55:45 - Channel visited: Troom Troom Es - UCu6oyJJ6PlkeNNv6n26ZNyA - Kategoria: Howto & Style
+2018-06-21 23:55:56 - Channel visited: Ami Rodriguez - UCwohKbRK2QnojtLh3p7xwaA - Kategoria: Entertainment
+2018-06-21 23:55:56 - Queue: [Koreos UCLA, SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello, Lulu99, Gibby :), Más SKabeche, Troom Troom Es, Ami Rodriguez]
+2018-06-21 23:55:57 - Parsing channel: Tu COSMOPOLIS
+2018-06-21 23:56:16 - Channel visited: WatchMojo Español - UClgevvAYKcfuthTWppKT0IQ - Kategoria: Film & Animation
+2018-06-21 23:56:26 - Channel visited: DrossRotzank - UCNYW2vfGrUE6R5mIJYzkRyQ - Kategoria: Entertainment
+2018-06-21 23:56:45 - Channel visited: CuriosoBen - UCZa48HasUkTB9yW8LK5HUgw - Kategoria: Entertainment
+2018-06-21 23:56:55 - Channel visited: Los mejores Top 10 - UCU4dLZPpj0hRF-P4x4snO9g - Kategoria: Entertainment
+2018-06-21 23:57:04 - Channel added to database: Koreos UCLA
+2018-06-21 23:57:04 - Queue: [SoNE1, SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello, Lulu99, Gibby :), Más SKabeche, Troom Troom Es, Ami Rodriguez, WatchMojo Español, DrossRotzank, CuriosoBen, Los mejores Top 10]
+2018-06-21 23:57:05 - Parsing channel: Koreos UCLA
+2018-06-21 23:57:54 - Channel added to database: SoNE1
+2018-06-21 23:57:54 - Queue: [SBS Inkigayo, WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello, Lulu99, Gibby :), Más SKabeche, Troom Troom Es, Ami Rodriguez, WatchMojo Español, DrossRotzank, CuriosoBen, Los mejores Top 10]
+2018-06-21 23:57:55 - Parsing channel: SoNE1
+2018-06-21 23:58:54 - Channel added to database: SBS Inkigayo
+2018-06-21 23:58:54 - Queue: [WilldaBeast Adams, TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello, Lulu99, Gibby :), Más SKabeche, Troom Troom Es, Ami Rodriguez, WatchMojo Español, DrossRotzank, CuriosoBen, Los mejores Top 10]
+2018-06-21 23:58:54 - Parsing channel: SBS Inkigayo
+2018-06-21 23:59:44 - Channel added to database: WilldaBeast Adams
+2018-06-21 23:59:44 - Queue: [TWICE, avex, KBS World TV, MBCentertainment, TV-People, JTBC Entertainment, The Alex Jones Channel, Collins Key, Bon Appétit, Binging with Babish, So Yummy, Munchies, Gordon Ramsay, Kyutie, tlc uk, Rumble Viral, TheTalko, BE AMAZED, #Mind Warehouse, AmmA Music, Big Man Music Oficial, viperprod, XpressTV, Wefere, Luan Palomera, luchosback, DeToxoMoroxo, CamelloMello, Lulu99, Gibby :), Más SKabeche, Troom Troom Es, Ami Rodriguez, WatchMojo Español, DrossRotzank, CuriosoBen, Los mejores Top 10]
+2018-06-21 23:59:45 - Parsing channel: WilldaBeast Adams

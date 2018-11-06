@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Crawler:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="Crawler.jar">
+      <element id="module-output" name="main" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.44" />
+      <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.11.3" />
+      <element id="library" level="project" name="Maven: org.json:json:20180130" />
+    </root>
+  </artifact>
+</component>
