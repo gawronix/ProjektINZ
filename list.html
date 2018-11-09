@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="img/favicon.ico">
+
+		<meta name="author" content="Grzegorz Gawronski">
+
+		<meta name="description" content="Aplikacja YouStats pozwalająca na łatwe sprawdzanie statystyk kanałów portalu YouTube">
+
+		<meta name="keywords" content="YouStats, Youtube, statystyki, kanał">
+
+		<meta charset="UTF-8">
+
+		<title>YouStats - Lista Kanałów </title>
+		<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
+		<!--
+		CSS
+		============================================= -->
+		<link rel="stylesheet" href="css/linearicons.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/button.css">
+	</head>
+	<body>
+		<div class="oz-body-wrap">
+			<!-- Start Header Area -->
+			<header class="default-header generic-header">
+				<div class="container-fluid">
+					<div class="header-wrap">
+						<div class="header-top d-flex justify-content-between align-items-center">
+							<div class="logo">
+								<a href="index.html"><img src="img/logo.png" style="max-height: 190px; max-width: 190px;"  alt=""></a>
+							</div>
+							<div class="main-menubar d-flex align-items-center">
+								<nav class="hide">
+									<a href="index.html">Wyszukiwarka</a>
+									<a href="top100.html">TOP100</a>
+									<a href="list.html">Lista Kanałów</a>
+									<a href="contact.html">Kontakt</a>
+									<a href="php/login.php">Logowanie</a>
+								</nav>
+								<div class="menu-bar"><span class="lnr lnr-menu"></span></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<section class="generic-banner relative">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">
+					<div class="row fullscreen align-items-center justify-content-center">
+						<h2 class="section-heading mb-4">
+                <span class="form-control">Proszę wybrać kategorię: </span>
+              </h2>
+              <div class="btn-group btn-group-justified container">
+                <button onclick="myFunction()" data-categoryid="1"    class="btn categorybutton">Komedia</button>
+                <button onclick="myFunction()"  data-categoryid="2"   class="btn categorybutton">Muzyka</button>
+                <button onclick="myFunction()"  data-categoryid="3"   class="btn categorybutton">Sport</button>
+                <button onclick="myFunction()"  data-categoryid="4"   class="btn categorybutton">Nauka i Technologie</button>
+                <button onclick="myFunction()"  data-categoryid="5"   class="btn categorybutton">Rozrywka</button>
+                <button onclick="myFunction()"  data-categoryid="6"   class="btn categorybutton">Ludzie </button>
+                <button onclick="myFunction()"  data-categoryid="7"   class="btn categorybutton">Styl</button>
+                <button onclick="myFunction()"  data-categoryid="8"   class="btn categorybutton">Edukacja</button>
+                <button onclick="myFunction()"  data-categoryid="9"   class="btn categorybutton">Gry</button>
+                <button onclick="myFunction()"  data-categoryid="10"  class="btn categorybutton">Zwiastuny</button>
+                <button onclick="myFunction()"  data-categoryid="11"  class="btn categorybutton">Filmy </button>
+                <button onclick="myFunction()"  data-categoryid="12"  class="btn categorybutton">Zwięrzeta</button>
+                <button onclick="myFunction()"  data-categoryid="13"  class="btn categorybutton">Motoryzacja</button>>
+                <button onclick="myFunction()"  data-categoryid="14"  class="btn categorybutton">Podróże i wydarzenia</button>
+							</div>
+				</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="about-generic-area">
+				<section id="wynikszuk" class="page-section cta">
+					<div class="container">
+					  <div class="row">
+						<div class="col-xl-9 mx-auto">
+						  <div class="cta-inner text-center rounded">
+							<h2 class="section-heading mb-4">
+							  <span class="section-heading-lower">Wyniki Wyszukiwania</span>
+							</h2>
+							<table id='jsonData' class="table table-striped table-bordered" style="width:100%">
+							  <tr>
+								<th>Miniaturka</th>
+								<th>Tytuł</th>
+								<th>Wyświetlenia</th>
+								<th>Liczba filmów</th>
+								<th>Subskrybenci</th>
+							  </tr>
+							</table>
+						  </div>
+						</div>
+					  </div>
+					</div>
+				  </section>
+			</section>
+
+			<footer class="section-gap">
+				<div class="container">
+					<div class="row pt-60">
+					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
+						<p class="footer-text m-0">Copyright &copy;<script>document.write(new Date().getFullYear());</script> Projekt Inżynierski UAM <i  aria-hidden="true"></i> by <a href="https://youstats.pl" target="_blank">YouStats</a></p>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<script>
+			function myFunction() {
+					var elmnt = document.getElementById("jsonData");
+					elmnt.scrollIntoView();
+			}
+			</script>
+		<script src="js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.nice-select.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/jquery.counterup.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/search.js"></script>
+		<script type="text/javascript" >
+
+			var listData; //store data received from API.
+			var $buttn = $(".categorybutton");
+			$buttn.on("click", function(event)
+			{
+				 var categoryid = $(this).attr("data-categoryid");
+					load("https://youstats.pl/api/top_in/"+categoryid)
+
+			});
+
+			function fill(data) {
+				$.each(data, function( index, value ) {
+						var country = value['Country'] == "NULL" ? "Brak danych" : value['Country'];
+						console.log(country);
+						$("#jsonData").append(
+								"<tr>"+"<td> <a target='_blank' href=\"https://www.youtube.com/channel/"+value['URL']+"\">"+value['Title']+"</a></td><td><img src="+value['PictureLink']+"></td><td>"+value['Views']+"</td><td>"+value['Videos']+"</td><td>"+country+"</td><td>"+value['Subscribers']+"</td> </tr>"
+						);
+				});
+			}
+
+			function load(path)
+			 {
+					$("#jsonData td").remove();
+					$.getJSON(path, function(data) {
+						listData = JSON.parse(JSON.stringify(data));
+						fill(data);
+					});
+			}
+	</script>
+	</body>
+</html>

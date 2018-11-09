@@ -1,108 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="img/favicon.ico">
 
-  <head>
+		<meta name="author" content="Grzegorz Gawronski">
+	
+		<meta name="description" content="Aplikacja YouStats pozwalająca na łatwe sprawdzanie statystyk kanałów portalu YouTube">
+	
+		<meta name="keywords" content="YouStats, Youtube, statystyki, kanał">
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>YouStatsPL - TOP 100</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/business-casual.min.css" rel="stylesheet">
-
-    </head>
-
-    <body>
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
-      <div class="container">
-        <a href="index.html" class="navbar-left"><img style="max-width: 220px" src="img/logo.png"></a>
-        <a class="navbar-brand text-uppercase text-expanded font-weight-bold d-lg-none" href="#">Youstats.pl</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav mx-auto">
-            <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="index.html">Wyszukiwarka
-                <span class="sr-only">(current)</span>
-              </a>
-            </li>
-            <li class="nav-item active px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="top100.html">Top100</a>
-            </li>
-            <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="lista.html">Lista Kanałów</a>
-            </li>
-            <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="kontakt.html">Kontakt</a>
-            </li>
-            <li class="nav-item px-lg-4">
-                    <a class="nav-link text-uppercase text-expanded" href="/php/login.php">Logowanie</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-    
-    <section id="wynikszuk" class="page-section cta">
-            <div class="container">
-              <div class="row">
-                <div class="col-xl-9 mx-auto">
-                  <div class="cta-inner text-center rounded">
-                    <h2 class="section-heading mb-4">
-                            <span class="section-heading-lower">Ranking Kanałów Youtube</span>
-                            <span class="section-heading-upper">Liczby subskrypcji</span>
-                            
-                    </h2>
-                    <table id="jsonData" class="table table-striped table-bordered" style="width:100%" id="results">
-                      <tr>
-                        <th>Tytuł</th>
-                        <th>Miniaturka</th>
-                        <th>Wyświetlenia</th>
-                        <th>Liczba filmów</th>
-                        <th>Kraj</th>
-                        <th>Subskrybenci</th>
-                      </tr>
-                    </table>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-
-    <footer class="footer text-faded text-center py-5">
-      <div class="container">
-        <p class="m-0 small">Copyright &copy; YouStats.PL 2018</p>
-      </div>
-    </footer>
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" >
-        function load(path) {
-            $.getJSON(path, function(data) {
-                $.each(data, function( index, value ) {
-                    $("#jsonData").append(
-                        "<tr>"+"<td> <a target='_blank' href=\"https://www.youtube.com/channel/"+value['URL']+"\">"+value['Title']+"</a></td><td><img src="+value['PictureLink']+"></td><td>"+value['Views']+"</td><td>"+value['Videos']+"</td><td>"+value['Country']+"</td><td>"+value['Subscribers']+"</td> </tr>"
-                    );
-                });
-            });
-        }
-        load('http://youstats.pl/api/top/100');
-    </script>
-  </body>
-
+		<meta charset="UTF-8">
+	
+		<title>YouStats - TOP 100 </title>
+		<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
+		<!--
+		CSS
+		============================================= -->
+		<link rel="stylesheet" href="css/linearicons.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/main.css">
+	</head>
+	<body>
+		<div class="oz-body-wrap">
+			<!-- Start Header Area -->
+			<header class="default-header generic-header">
+				<div class="container-fluid">
+					<div class="header-wrap">
+						<div class="header-top d-flex justify-content-between align-items-center">
+							<div class="logo">
+								<a href="index.html"><img src="img/logo.png" style="max-height: 190px; max-width: 190px;"  alt=""></a>
+							</div>
+							<div class="main-menubar d-flex align-items-center">
+								<nav class="hide">
+									<a href="index.html">Wyszukiwarka</a>
+									<a href="top100.html">TOP100</a>
+									<a href="list.html">Lista Kanałów</a>
+									<a href="contact.html">Kontakt</a>
+									<a href="php/login.php">Logowanie</a>
+								</nav>
+								<div class="menu-bar"><span class="lnr lnr-menu"></span></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+		
+			<section class="generic-banner relative">
+				<div class="overlay overlay-bg"></div>
+				<div class="container">
+					<div class="row fullscreen align-items-center justify-content-center">
+						<div class="container">
+								<div class="row">
+									<div class="col-xl-9 mx-auto">
+										<div class="cta-inner text-center rounded">
+											<h2 class="section-heading mb-4">
+															<span class="section-heading-lower">Ranking Kanałów Youtube</span>															
+											</h2>
+											<h2 class="section-heading mb-4">
+													<span class="section-heading-upper">Liczby subskrypcji</span>
+													
+									</h2>
+											<table id="jsonData" class="table table-striped table-bordered" style="width:100%" id="results">
+												<tr>
+													<th>Tytuł</th>
+													<th>Miniaturka</th>
+													<th>Wyświetlenia</th>
+													<th>Liczba filmów</th>
+													<th>Kraj</th>
+													<th>Subskrybenci</th>
+												</tr>
+											</table>
+										</div>
+									</div>
+								</div>
+							</div>
+				</div>
+					</div>
+				</div>
+			</section>
+			
+			<section class="about-generic-area">
+				<div class="container border-top-generic">
+					
+				</div>
+			</section>
+			
+			<footer class="section-gap">
+				<div class="container">
+					<div class="row pt-60">
+					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
+						<p class="footer-text m-0">Copyright &copy;<script>document.write(new Date().getFullYear());</script> Projekt Inżynierski UAM <i  aria-hidden="true"></i> by <a href="https://youstats.pl" target="_blank">YouStats</a></p>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<script src="js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.nice-select.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/search.js"></script>
+		<script type="text/javascript" >
+			function load(path) {
+					$.getJSON(path, function(data) {
+							$.each(data, function( index, value ) {
+									$("#jsonData").append(
+											"<tr>"+"<td> <a target='_blank' href=\"https://www.youtube.com/channel/"+value['URL']+"\">"+value['Title']+"</a></td><td><img src="+value['PictureLink']+"></td><td>"+value['Views']+"</td><td>"+value['Videos']+"</td><td>"+value['Country']+"</td><td>"+value['Subscribers']+"</td> </tr>"
+									);
+							});
+					});
+			}
+			load('https://youstats.pl/api/top/100');
+	</script>
+	</body>
 </html>
